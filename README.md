@@ -12,25 +12,25 @@ For your written analysis, be sure to use complete and coherent sentences. Your 
 
 > Creating the tickerIndex variable and three output arrays. 
 
-    ![tickerIndex_and_arrays](https://user-images.githubusercontent.com/90146132/139595757-a20b2202-3d60-4c32-88c4-7c1a630c629c.PNG)
+   ![tickerIndex_and_arrays](https://user-images.githubusercontent.com/90146132/139595757-a20b2202-3d60-4c32-88c4-7c1a630c629c.PNG)
 
 > Initializing tickervolumes to began at the vaule zero and creating a loop that will loop over all the row in the selected year value spreadsheet
 
-    ![totalvolume_zero](https://user-images.githubusercontent.com/90146132/139595669-b81c9b30-7d0e-44e4-805e-804a6f09a1c5.PNG)
-    ![loop_to_all_rows_spreadsheet](https://user-images.githubusercontent.com/90146132/139595682-863a4c54-369b-43f0-a332-70ca92ea3904.PNG)
+   ![totalvolume_zero](https://user-images.githubusercontent.com/90146132/139595669-b81c9b30-7d0e-44e4-805e-804a6f09a1c5.PNG)
+   ![loop_to_all_rows_spreadsheet](https://user-images.githubusercontent.com/90146132/139595682-863a4c54-369b-43f0-a332-70ca92ea3904.PNG)
 
 
 > Aftering setting totalVolume to zero and creating loop through all rows, we assemble the first loop and create a script to obtain the current ticker's ticker volume and increase tickerIndex if the new row's ticker does not match the previous row's ticker.
 
-    ![increasae_tickervolume_currentticker](https://user-images.githubusercontent.com/90146132/139595724-f80315c2-308a-4112-bc04-7fffd9c1496b.PNG)
+   ![increasae_tickervolume_currentticker](https://user-images.githubusercontent.com/90146132/139595724-f80315c2-308a-4112-bc04-7fffd9c1496b.PNG)
 
 > A nested loop was created to loop through the rows to assign the tickerStartingPrices and tickerEndingPrices for each ticker with if-then statments.
 
-    ![nested_loop_startandend_prices](https://user-images.githubusercontent.com/90146132/139595731-48050767-e956-4300-8b4f-70982267f915.PNG)
+   ![nested_loop_startandend_prices](https://user-images.githubusercontent.com/90146132/139595731-48050767-e956-4300-8b4f-70982267f915.PNG)
 
 > A for loop was used to obtain values for arrays to out the Ticker, Total Daily Volume, and Return created and formatted into the All Stock Analysis.
 
-     ![ticker_totaldailyvolume_return](https://user-images.githubusercontent.com/90146132/139595736-0947d9da-68b7-4b5e-83c8-e9b9ead773e7.PNG)
+   ![ticker_totaldailyvolume_return](https://user-images.githubusercontent.com/90146132/139595736-0947d9da-68b7-4b5e-83c8-e9b9ead773e7.PNG)
 
 ### Comparing Stock Peformance:
 
